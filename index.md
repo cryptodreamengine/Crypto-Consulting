@@ -1,8 +1,6 @@
 ## 欢迎来造梦
 
-You can use the [editor on GitHub](https://github.com/cryptodreamengine/strategy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在区块链技术的10年发展过程中，其不断增加的价值吸引了大量的投资者，一个依托于区块链的加密货币（或称数字货币）交易市场也就逐渐形成了，其交易方式类似于股票交易市场，交易品种有包括比特币在内的上千个品种，加密货币市值并不大，2020年11月底，其市场整体市值相当于两家“茅台”。加密货币交易是双向交易（支持做多和做空），T+0，全天24小时交易，涨跌无限制。我们选择了这个变动快速的投资标的作为业务核心，因为时间就是金钱。
 
 ### Markdown
 
