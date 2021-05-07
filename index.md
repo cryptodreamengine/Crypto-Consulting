@@ -29,7 +29,7 @@
 
 - 您可以关注我们的微博，我们将定期分享关于交易的点滴 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### 其他
+### 链接
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptodreamengine/strategy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
