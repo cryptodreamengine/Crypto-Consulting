@@ -27,6 +27,7 @@
 - 用户首次参与可进行体验性对接，量化策略并非「打遍天下的武功」，也会面临难熬的等待期和利润回撤期，在体验期熟悉交易节奏后，可进行增仓
 - 加密货币市场是相对新兴的市场，我们的策略具有完善的止损机制，但仍建议用户使用自己10%以内的闲置资金进行分批次投资，避免短期巨大波动对日常生活的影响，赚钱路途无止境，保持心情愉快才能长久坚持
 
+![Image of Yaktocat](https://wx2.sinaimg.cn/mw690/6e46100egy1fkkb7hv9sij21w01w01kx.jpg)
 
 - 您可以关注我们的微博，我们将定期分享关于交易的点滴 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
