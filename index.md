@@ -25,4 +25,4 @@
 
 ### 了解我们
 
-您可以关注我们的交易博客，我们将定期分享关于交易的点滴 [TradingView](https://cn.tradingview.com/u/JohnGe/)
+您可以关注我们的交易博客[TradingView](https://cn.tradingview.com/u/JohnGe/)，我们将定期分享关于交易的点滴
