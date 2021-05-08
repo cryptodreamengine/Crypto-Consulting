@@ -12,4 +12,4 @@
 
 ### 了解我们
 
-您可以关注我们的交易博客[TradingView](https://cn.tradingview.com/u/JohnGe/)和新浪微博[weibo](https://weibo.com/u/1850085390/)，我们的交易员将定期分享关于交易和生活的点滴，发表对于财富的看法。
+您可以关注我们的交易博客[TradingView](https://cn.tradingview.com/u/JohnGe/)和新浪微博[weibo](https://weibo.com/u/1850085390/)，我们的交易员将定期分享关于交易和财富的看法。
