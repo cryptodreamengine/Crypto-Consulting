@@ -11,5 +11,5 @@
 - 提供加密货币领域的各类咨询、培训服务，也包括一切您能想到的。
 
 ### 了解我们
-
+邮箱：dreamengine@yeah.net
 您可以关注我们的交易博客[TradingView](https://cn.tradingview.com/u/JohnGe/)和新浪微博[weibo](https://weibo.com/u/1850085390/)，我们的交易员将定期分享关于交易和财富的看法。
